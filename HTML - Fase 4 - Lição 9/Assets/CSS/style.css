@@ -1,0 +1,16 @@
+h1 {
+    color:darkmagenta;
+    font-size: 35px;
+    font-family: fantasy;
+}
+h3 {
+    color:blue;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+h4 {
+    color:darkgreen;
+    font-size: medium;
+    font-family: fantasy;
+}
